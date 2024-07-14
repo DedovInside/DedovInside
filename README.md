@@ -4,8 +4,7 @@
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47acnrwb8santvx7cv3ls8uoc14w432y02ujntkfk2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
 
-
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.instagram.com/dedovinside/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
