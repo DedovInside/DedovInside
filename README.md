@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 <div id="header" align="center">
+  <h1>Hello there, I`m Ivan</h1>
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47acnrwb8santvx7cv3ls8uoc14w432y02ujntkfk2&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
 
